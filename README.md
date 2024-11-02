@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmanuel-dot-le
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on anything I fin interesting
+- 💞️ I’m looking to collaborate on anything I find interesting
 - 📫 How to reach me here
 - 😄 Pronouns: all of them
 - ⚡ Fun fact: I'm a late bloomer
